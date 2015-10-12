@@ -1,0 +1,23 @@
+{
+  "name": "react-dnd-multi-backend",
+  "version": "1.0.0",
+  "description": "allows you to use multiple React DnD backends (e.g. HTML5 and touch) simultaneously",
+  "main": "src/MultiBackend.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mindfront/react-dnd-multi-backend"
+  },
+  "keywords": [
+    "react",
+    "dnd",
+    "touch",
+    "html5",
+    "backend"
+  ],
+  "author": "Andy Edwards <jedwards@fastmail.com> (https://github.com/jedwards1211)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mindfront/react-dnd-multi-backend/issues"
+  },
+  "homepage": "https://github.com/mindfront/react-dnd-multi-backend"
+}
